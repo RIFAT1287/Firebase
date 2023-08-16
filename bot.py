@@ -17,7 +17,7 @@ import aioschedule
 
 
 # API_TOKEN = '5639332006:AAGOolvXWUaJnJpVOf1QBrrj0PRn0hiRGgQ'
-API_TOKEN = '5877811543:AAFG6R0A95hYorVuFo9wyEg_E9lVB-p2BnE'
+API_TOKEN = '6636090657:AAF9505C3rqr71qTdfP3P8eHId_bfRRK5q0'
 COINBASE_API = '0c127e3d-75af-4631-b42e-63f3f01e0a12'
 
 bot = aiogram.Bot(API_TOKEN)
@@ -39,7 +39,7 @@ users = {}
 products = {'prds':{}}
 purchases = {}
 # temp_prds =[]
-ADMIN_ID = 5778351494
+ADMIN_ID = 5898958251
 # ADMIN_ID = 748364768
 
 
